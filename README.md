@@ -26,3 +26,9 @@
 
 ## IDEA VALIDATION
 - Prompt `Question, is there anything like this in the market?`
+
+
+## PREP WORK BEFORE STARTING
+- Add Claude.md
+- Ask `before we start, can you help me define the CLAUDE.md file? and any additional agents, such as frontend-design, senior-frontend, senior-backend, webapp-testing, code-reviewer, git-commit-helper
+
